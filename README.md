@@ -1,5 +1,5 @@
 # hugo_photo_gallery
-A little python script that helps me to create photo gallery post from an image directory.
+A little python script that helps me to create a photo gallery post from an image directory.
 
 # Preparation
 Change the hugo_site_dir variable inside the gallery.py to your hugo site folder.
